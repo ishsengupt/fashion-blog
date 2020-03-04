@@ -1,0 +1,68 @@
+{
+  "name": "client",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@material-ui/core": "^4.9.2",
+    "@material-ui/icons": "^4.9.1",
+    "antd": "^3.26.9",
+    "axios": "^0.18.0",
+    "classnames": "^2.2.6",
+    "dom": "0.0.3",
+    "draft-js": "^0.11.4",
+    "enquire-js": "^0.2.1",
+    "formik": "^1.5.8",
+    "html-react-parser": "^0.10.1",
+    "interweave": "^12.2.1",
+    "markdown-to-jsx": "^6.11.0",
+    "medium-editor": "^5.23.3",
+    "moment": "^2.24.0",
+    "prop-types": "^15.7.2",
+    "qrcode.react": "^1.0.0",
+    "rc-queue-anim": "^1.8.3",
+    "rc-scroll-anim": "^2.7.4",
+    "rc-tween-one": "^2.6.8",
+    "react": "^16.12.0",
+    "react-animate-on-scroll": "^2.1.5",
+    "react-document-title": "^2.0.3",
+    "react-dom": "^16.12.0",
+    "react-dropzone": "^10.2.1",
+    "react-github-button": "^0.1.11",
+    "react-icons": "^3.7.0",
+    "react-image-gallery": "^1.0.6",
+    "react-medium-editor": "^1.8.1",
+    "react-paypal-express-checkout": "^1.0.5",
+    "react-redux": "^7.1.0-rc.1",
+    "react-router-dom": "^5.0.1",
+    "react-scripts": "3.0.1",
+    "redux": "^4.0.0",
+    "redux-promise": "^0.6.0",
+    "redux-thunk": "^2.3.0",
+    "semantic-ui-react": "^0.88.2",
+    "yup": "^0.27.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "http-proxy-middleware": "^0.19.1"
+  }
+}
